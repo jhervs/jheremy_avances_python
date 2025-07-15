@@ -1,6 +1,6 @@
 # 🐍 Aprendiendo Python desde cero – Mi camino como desarrollador
 
-¡Hola! Soy **Jheremy De Jesus Villafranca Seijas** y este repositorio es un registro personal (y público) de mi proceso de aprendizaje en Python.
+¡Hola! Soy **Jheremy Villafranca** y este repositorio es un registro personal (y público) de mi proceso de aprendizaje en Python.
 
 A diferencia de mi [📁 repositorio portafolio](https://github.com/jhervs/jheremy-portafolio), donde encontrarás mis proyectos terminados y pulidos, aquí verás **mi código en crudo, mis notas, errores, correcciones y razonamientos**. Este repositorio es como un cuaderno abierto, donde documento todo lo que voy aprendiendo día a día. 🧠✍️
 
