@@ -25,7 +25,6 @@ A diferencia de mi [📁 repositorio portafolio](https://github.com/jhervs/jhere
 - 💡 Explicaciones y reflexiones sobre cómo abordé cada ejercicio.
 - 🛠️ Correcciones y mejoras que fui haciendo sobre la marcha.
 - 🗂️ Organización por temas y niveles, según mi plan de estudio.
-- 🧭 Una copia del plan de estudio que estoy siguiendo (opcional).
 
 ---
 
