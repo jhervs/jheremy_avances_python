@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ruta/a/tu/imagen/banner_py.png" alt="Avances en Python Banner">
+  <img src="banner_py.png" alt="Banner de bienvenida" />
 </p>
 
 # 🐍 Aprendiendo Python desde cero – Mi camino como desarrollador
