@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ruta/a/tu/imagen/banner_py.png" alt="Avances en Python Banner">
+</p>
+
 # 🐍 Aprendiendo Python desde cero – Mi camino como desarrollador
 
 ¡Hola! Soy **Jheremy Villafranca** y este repositorio es un registro personal (y público) de mi proceso de aprendizaje en Python.
