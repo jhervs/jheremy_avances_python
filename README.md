@@ -2,45 +2,52 @@
   <img src="banner_py.png" alt="Banner de bienvenida" />
 </p>
 
-# 🐍 Aprendiendo Python desde cero – Mi camino como desarrollador
+# 🐍 Aprendiendo Python desde cero  
+### 🧠 Repositorio: `jheremy_avances_python`
 
-¡Hola! Soy **Jheremy Villafranca** y este repositorio es un registro personal (y público) de mi proceso de aprendizaje en Python.
+¡Hola! Soy **Jheremy Villafranca** ☺️🩵  
+Este repositorio reúne todos mis avances semanales mientras aprendo **Python** como parte de mi preparación para la universidad y mi futuro como **desarrollador backend** 💻
 
-A diferencia de mi [📁 repositorio portafolio](https://github.com/jhervs/jheremy-portafolio), donde encontrarás mis proyectos terminados y pulidos, aquí verás **mi código en crudo, mis notas, errores, correcciones y razonamientos**. Este repositorio es como un cuaderno abierto, donde documento todo lo que voy aprendiendo día a día. 🧠✍️
+---
+## 🧭 Índice rápido
+- [¿Qué encontrarás aquí?](#qué-encontrarás-aquí)
+- [Objetivo del repositorio](#objetivo-de-este-repositorio)
+- [Portafolio de proyectos](#-quieres-ver-mis-proyectos-terminados)
+- [Otros enlaces](#-otros-enlaces)
+
+
+## ✨ ¿Qué encontrarás aquí?
+
+📁 Cada carpeta representa una semana de estudio, con ejercicios, apuntes y proyectos que marcan mi evolución.  
+
+📘 Estoy trabajando con fundamentos de programación, lógica computacional y estructuras como listas, diccionarios, condicionales, bucles y funciones.
+
+
+Cada carpeta incluye archivos .py con los ejercicios resueltos y sus respectivas versiones mejoradas.
 
 ---
 
-## 🌱 ¿Por qué este repositorio?
+## 💡 Objetivo de este repositorio
 
-- Para **tener un registro honesto** de cómo avanzo, con todo y fallos.
-- Para que otras personas que estén comenzando también puedan **aprender de mi proceso**.
-- Para mostrar que aprender programación es un camino lleno de pruebas, errores y evolución.
-- Para complementar mi portafolio con una visión **más humana y real** de mi crecimiento como desarrollador.
+Este es mi espacio personal de crecimiento. Aquí puedo ver cómo voy avanzando, aprendiendo de mis errores, corrigiendo, y sobre todo, **disfrutando del camino** 🩵  
+Me recuerda que **empezar desde cero también es parte del éxito** 💪✨
 
----
 
-## 📌 ¿Qué encontrarás aquí?
-
-- 📚 Ejercicios y desafíos resueltos con mis propias anotaciones.
-- 💡 Explicaciones y reflexiones sobre cómo abordé cada ejercicio.
-- 🛠️ Correcciones y mejoras que fui haciendo sobre la marcha.
-- 🗂️ Organización por temas y niveles, según mi plan de estudio.
-
----
-
-## 🔗 ¿Quieres ver mis proyectos terminados?
+# 🔗 ¿Quieres ver mis proyectos terminados?
 
 Si te interesa ver cómo se ven mis ideas ya terminadas y presentadas de forma profesional, puedes visitar mi repositorio de proyectos aquí:
 
 👉 [Ver portafolio de proyectos →](https://github.com/jhervs/jheremy-portafolio)
+---
+
+## 🌐 Otros enlaces
+
+🔗 Mi perfil de GitHub: [github.com/jhervs](https://github.com/jhervs)  
+🔗 Mi LinkedIn: [linkedin.com/in/jheremy-dev](https://linkedin.com/in/jheremy-dev)
 
 ---
 
-## 🚀 Objetivo
-
-Dominar Python y prepararme para mi carrera en Ingeniería Informática, desarrollando tanto proyectos como una base sólida en lógica, estructuras de datos y algoritmos.
-
----
-
-**By Jheremy & ChatGPT 💻🩵**  
+### ✍️ By Jheremy & ChatGPT 💻🩵
 _Seguimos aprendiendo, un paso a la vez._
+
+---
