@@ -26,7 +26,7 @@ Este es mi espacio personal de crecimiento. Aquí puedo ver cómo voy avanzando,
 Me recuerda que **empezar desde cero también es parte del éxito** 💪✨
 
 
-# 🔗 ¿Quieres ver mis proyectos terminados?
+## 🔗 ¿Quieres ver mis proyectos terminados?
 
 Si te interesa ver cómo se ven mis ideas ya terminadas y presentadas de forma profesional, puedes visitar mi repositorio de proyectos aquí:
 
