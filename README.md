@@ -31,6 +31,7 @@ Me recuerda que **empezar desde cero también es parte del éxito** 💪✨
 Si te interesa ver cómo se ven mis ideas ya terminadas y presentadas de forma profesional, puedes visitar mi repositorio de proyectos aquí:
 
 👉 [Ver portafolio de proyectos →](https://github.com/jhervs/jheremy-portafolio)
+
 ---
 
 ## 🌐 Otros enlaces
