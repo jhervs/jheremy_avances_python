@@ -8,13 +8,6 @@
 ¡Hola! Soy **Jheremy Villafranca** ☺️🩵  
 Este repositorio reúne todos mis avances semanales mientras aprendo **Python** como parte de mi preparación para la universidad y mi futuro como **desarrollador backend** 💻
 
----
-## 🧭 Índice rápido
-- [¿Qué encontrarás aquí?](#qué-encontrarás-aquí)
-- [Objetivo del repositorio](#objetivo-de-este-repositorio)
-- [Portafolio de proyectos](#-quieres-ver-mis-proyectos-terminados)
-- [Otros enlaces](#-otros-enlaces)
-
 
 ## ✨ ¿Qué encontrarás aquí?
 
