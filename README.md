@@ -42,6 +42,8 @@ Si te interesa ver cómo se ven mis ideas ya terminadas y presentadas de forma p
 ---
 
 ### ✍️ By Jheremy & ChatGPT 💻🩵
-_Seguimos aprendiendo, un paso a la vez._
+
+_Gracias por acompañarme en este viaje. ¡Cada línea de código es un paso hacia la meta!_
+
 
 ---
