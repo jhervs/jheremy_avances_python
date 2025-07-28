@@ -3,6 +3,7 @@
 
 #definimos funciones
 
+
 def bienvenida(): #da una bienvenida
     print("""
 Hola usuario ☺️✨. Bienvenido a tu to-do list
@@ -29,6 +30,8 @@ def hacer_tarea(): #crea la tarea
 
     print(f"Tarea {nombre} creada con exito ☺️📅✨")
 
+def mostras_tareas():
+    print(tareas)
 
 
 while True:
@@ -37,7 +40,8 @@ while True:
 Aqui te dejo las opciones que tienes para escoger:
 
 1. Crear una tarea 📅🩵
-2. Nada por hoy. Salir 👋☺️\n
+2. Mostras tareas actuales 📘 ✏️
+3. Nada por hoy. Salir 👋☺️\n
 """)
     if opciones == "1":
         hacer_tarea()
@@ -52,9 +56,24 @@ no (Para salir 👋☺️ 🩵)\n
             print("\nSigamos agregando tareas 💪📅\n")
             continue
         else:
-            print("\n Nos vemos en otra ocacion para crear mas tareas 👋☺️✨")
+            print()
             break
     elif opciones == "2":
+        print("\nEstas son tus tareas actuales ☺️ 🩵: \n")
+        mostras_tareas()
+        again_1 = input("""
+Muy bien ☺️ 🩵 ¿Quieres realizar otra operacion?
+
+Ingresa "si" para continuar
+ingresa "no" para culminar.
+""")
+        if again_1 == "si":
+            print("\nDe acuerdo, sigamos ☺️ ✨\n")
+            continue
+        else:
+            print("Muy bien, Terminamos por ahora 🥹 🩵")
+            break
+    elif opciones == "3":
         print("De acuerdo ☺️. Sera para la proxima ✨ 🩵")
         break 
     else:
